@@ -1,2 +1,2 @@
 # MiMal-To-Do
-mimal to do policy
+Read_Phone_State权限，只是为了获取手机状态信息IMEI、Model，来判断用户是否是一个有效的用户，而不是模拟器假的用户，本应用不会透露任何您的个人信息，充分保证用户隐私安全问题。
